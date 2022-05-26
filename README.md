@@ -1,3 +1,3 @@
 # DataAnalystProject
-##Data Analyst project
-###Project One: SQL
+## Data Analyst project
+### Project One: SQL
